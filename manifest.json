@@ -1,0 +1,10 @@
+{
+  "hunts" : [
+    {
+      "description" : "Songs from the Dawn of Rock",
+      "id" : "Early Rock",
+      "name" : "Early Rock",
+      "songCount" : 5
+    }
+  ]
+}
