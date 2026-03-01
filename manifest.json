@@ -1,13 +1,6 @@
 {
   "hunts" : [
     {
-      "description" : "Songs from the Dawn of Rock",
-      "id" : "Early Rock",
-      "isPublished" : true,
-      "name" : "Early Rock",
-      "songCount" : 5
-    },
-    {
       "description" : "A chain of hits from my childhood",
       "id" : "RetroHits",
       "isPublished" : true,

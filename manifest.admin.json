@@ -3,7 +3,7 @@
     {
       "description" : "Songs from the Dawn of Rock",
       "id" : "Early Rock",
-      "isPublished" : true,
+      "isPublished" : false,
       "name" : "Early Rock",
       "songCount" : 5
     },
